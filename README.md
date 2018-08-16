@@ -1,2 +1,2 @@
 # Java_NeuralNet
-This is my attempt at developing a simple XOR neural network in Java! 
+I am very interested in machine learning, and this is my attempt at developing a simple artificial neural network that addresses the XOR problem in Java! 
